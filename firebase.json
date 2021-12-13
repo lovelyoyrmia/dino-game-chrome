@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "dinogame-lovelyo",
+    "site": "dinogame-lovelyo-29",
     "public": "public",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [

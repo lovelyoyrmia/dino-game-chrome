@@ -1,6 +1,6 @@
 import { setupGround, updateGround } from "./ground.js";
 import { setupDino, updateDino, getDinoRects, setDinoLose } from "./dino.js";
-import { setupCactus, updateCactus, getCactusRects } from "./public/cactus.js";
+import { setupCactus, updateCactus, getCactusRects } from "./cactus.js";
 
 const WORLD_HEIGHT = 20;
 const WORLD_WIDTH = 100;
